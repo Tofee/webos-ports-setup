@@ -25,7 +25,7 @@ export BUILDDIR="${TOPDIR}"
 export BB_ENV_EXTRAWHITE="MACHINE DISTRO http_proxy ftp_proxy https_proxy all_proxy ALL_PROXY no_proxy SSH_AGENT_PID SSH_AUTH_SOCK BB_SRCREV_POLICY SDKMACHINE BB_NUMBER_THREADS GIT_PROXY_COMMAND PSEUDO_DISABLED PSEUDO_BUILD"
 export LD_LIBRARY_PATH=
 export LANG=C
-export MACHINE
+export MACHINE=qemux86
 export DISTRO
 #NOTE: if you add export definitions here add them below too!
 #
